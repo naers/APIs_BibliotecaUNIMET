@@ -1,0 +1,908 @@
+2020-03-15 02:38:57 [scrapy] DEBUG: Crawled (200) <GET http://andromeda.unimet.edu.ve/robots.txt> (referer: None)
+2020-03-15 02:39:01 [scrapy] DEBUG: Crawled (200) <GET http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=> (referer: None)
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Determinación de las estrategias de comercialización necesarias para el consumo en el hogar del  Queso Fundido Maracay tipo Mozarella : basado en un estudio realizado en el Area Metropolitana de Caracas'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Mercadeo--Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Quesos--Mercadeo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistema de control de recaudación y flujo de caja de créditos de política habitacional del Banco Hipotecario Mercantil'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de información en administración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Banco Hipotecario Mercantil'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Venezuela. Ley de Política Habitacional'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.B34M5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.B34M5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.B34M5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Diagnóstico del clima organizacional de una empresa del sector financiero multinacional. Caso: Departamento de Travellers Checks de Citibank N.A.'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ambiente de trabajo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Citibank N.A., Departamento de Travellers Checks--Análisis ocupacional'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.P31.M67N4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.P31.M67N4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.P31.M67N4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.P31.M67N4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.P31.M67N4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Exportaciones no tradicionales en Venezuela: su justificación e importancia período 1976-1986 análisis'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Exportaciones--Venezuela--Control'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Comercio exterior--Venezuela--Control'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D345'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D345'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.D345'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Deuda pública. Aspectos relativos a la renegociación de la deuda externa de Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Deuda pública--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Deuda--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexo sin paginarUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.F3D4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexo sin paginarUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.F3D4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.F3D4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.F3D4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.F3D4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistema de control de producción porcina: (SCPP)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Cerdos--Cría y desarrollo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de apoyo para la planificación del patrullaje lacustre'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas expertos (Computación)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'LAGOVEN,S.A--Instalaciones lacustres--Prevención'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.M38G3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.M38G3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.M38G3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistema automático de control de calidad'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.T649'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.T649'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TK145.T649'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Formulación de lodos de perforación mediante el uso de heteropolisacaridos de origen microbiano'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Lodos de perforación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Perforación de pozos petroleros'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.R6F6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.R6F6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TP155.R6F6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Desarrollo de una interfaz para la conformación de un circuito cerrado de televisión de arquitectura abierta'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Televisión por circuito cerrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.F47R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.F47R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.F47R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Tipo de cambio y exportaciones no tradicionales: caso Venezuela 1983-1993'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Comercio exterior'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Venezuela--Política comercial'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Cambio exterior--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.Q85T5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.Q85T5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.Q85T5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio de factibilidad de un proyecto de transporte colectivo integrado metroautobús'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Metro de Caracas'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Transporte--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.M759'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.M759'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.M759'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Análisis comparativo de sistemas constructivos para vivendas de interés social'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Vivienda de interés social--Diseño y construcción'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Vivienda--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.R65H8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.R65H8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.R65H8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.R65H8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.R65H8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Especificación de un modelo ecocométrico que explique la demanda de malta en Venezuela: período 1990-1994'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Malta--Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Econometría'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D45V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D45V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D45V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D45V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.D45V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistema de automatización de estudios y presupuestos para la señalización y demarcación en carreteras y avenidas'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Señales de tránsito--Automatización'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ministerio de Transporte y Comunicaciones. Dirección de Ingeniería--Sistemas de computación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.U72R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.U72R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.U72R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Convención forzada interna de un flujo laminar en tuberías circulares con condiciones de borde conjugadas: radiación y conducción'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Calor--Transmisión'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye disketteUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.L4C6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye disketteUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.L4C6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.L4C6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.L4C6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TJ146.L4C6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Guía práctica de experiencias significativas para la aceptación de la diferencia racial color de piel de los niños de 4 a 6 años del Aula Experimental de la UNIMET'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Educación--Trabajo de Grado--1989'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Discriminación racial'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Problemas sociales'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.H4G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.H4G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.LB1140.H4G8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Relación entre el nivel profesional del personal directivo y el desarrollo de los sub-procesos de la administración en los centros pre-escolares de los Distritos 2 y 3 del Area Metropolitana de Caracas'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración escolar'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Planificación educativa'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.P4R4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.P4R4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.LB1140.P4R4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Efectos de la aplicación de un programa combinado de análisis transaccional y D.U.S.O. en el nivel de autoestima en niños en edad preescolar con impedimentos motores'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Niños impedidos--Psicología'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.R63'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.R63'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.LB1140.R63'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Unidad modelo del desarrollo de un programa de inglés específico para la opción de banca y finanzas de ciencias administrativas en la Universidad Metropolitana'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Inglés comercial  Enseñanza  Estudiantes extranjeros'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.P31.B3S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.P31.B3S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.P31.B3S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Diseño de un purificador de aire de mar por decantación de partículas en suspensión y desalinización por burbujeo en agua dulce'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Purificación del aire--Diseño--Aparatos e instrumentos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Filtros de aire--Diseño'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D45B5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D45B5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D45B5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D45B5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TJ146.D45B5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Modelo de simulación dinámica para el estudio de la evolución del número de casos de SIDA en Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'SIDA (Síndrome de Inmuno Deficiencia Adquirida). 2. Sistemas de almacenamiento y recuperación de información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de almacenamiento y recuperación de información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R3M6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R3M6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.R3M6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio descriptivo sobre la actuación del maestro frente a un niño con dotación superior integrado a un aula regular'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Educación de niños superdotados--Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Análisis del proceso de interacción en educación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Maestros de niños excepcionales--Preparación de maestros'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.D4H6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.D4H6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.LB1140.D4H6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Visualización del diseño de una torre de destilación por el Método de McCabethiele asistido por computadoras'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería de Sistemas--Trabajo de Grado--1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Destilación--Diseño con ayuda de computador'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Método de McCabe--thiele'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye manual del usuarioUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R65V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye manual del usuarioUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R65V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R65V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.R65V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.R65V5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Produccion de SnC14 a partir de chatarra de hojalata'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estaño--Producción'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Cloración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Química metalúrgica'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Conversión de residuos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.U73R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.U73R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.U73R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.U73R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TP155.U73R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Propuesta de plan estratégico a cinco años de la empresa Floppy Dist C.A., a ser implementado a partir del segundo semestre de 1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración  Trabajo de Grado  1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Planeación estratégica'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Floppy Dist. C.A.  Planeación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.G37R65'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.G37R65'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.G37R65'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Desarrolo e implementación de un componente de la Intranet para un área de servicios pertenecientes a una institutción financiera'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería de Sistemas  Trabajo de Grado  1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Internet (Red de computadores)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Procesamiento de datos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Arquitectura cliente servidor'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.M43I8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA168.M43I8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA168.M43I8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Modelo de comercialización integral de productos de consumo masivo para la pequeña y mediana industria, bajo la modalidad de  Outsourcing'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana  Trabajo de Postgrado  1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Contratantes externos--Estudio de casos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Pequeña y mediana empresa  Administración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Análisis de mercadeo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Contratos de servicio'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nota Cont.: Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GC998.A59R8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Incluye anexosUbicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GC998.A59R8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GC998.A59R8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.GC998.A59R8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.GC998.A59R8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Nivel de aceptación de un nuevo fondo de vacaciones en soluciones integrales Gis C.A.'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración  Trabajo de Grado  1999'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración de recursos humanos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración de personal'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Soluciones Integrales Gis  Fondo de vacaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.M67R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.M67R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.M67R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estrategias financieras y fiscales ante el efecto inflacionario en una empresa del sector de tecnología de la información, empresa caso : I.B.M. de Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana--Trabajo de Postgrado--1996'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Inflación (Finanzas)--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'I.B.M. de Venezuela--Contabilidad'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.F996.P32F5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.F996.P32F5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.F996.P32F5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Desarrollo del plan de lanzamiento de sotfware didáctico de entretenimiento, para la empresa Mattel de Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana  Trabajo de Postgrado  1997'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Software  Mercadeo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Mercadeo  Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Mattel de Venezuela  Publicidad'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GE997.M4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.GE997.M4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.GE997.M4'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistema de apoyo al inversionista para la creación de un portafolio personalizado de inversión'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana  Trabajo de Postgrado  1996'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de información en administración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Capitalistas  Servicios de información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Inversiones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.F996.R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.F996.R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.F996.R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Manual'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio de movimientos propios en cúmulos estelares galácticos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Matemáticas--Trabajo de Grado--1998'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Cúmulos de galaxias'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Astronomía'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.QA10.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.QA10.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.QA10.R65S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Actitudes de los estudiantes de la Universidad Metropolitana hacia la asignatura inglés instrumental'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Idiomas Modernos  Trabajo de Grado  1997'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudiantes  Actitudes'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Aprendizaje de un segundo idioma'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Investigación educativa'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.P31.P39S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.P31.P39S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.P31.P39S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Planificación estratégica para el mejoramiento de la rentabilidad del capital en pequeñas y medianas empresas de servicio en el área de mantenimiento de sistemas de aire acondicionado industrial en Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana--Trabajo de Postgrado--2000'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Planificación estratégica'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Pequeña y mediana industria--Administración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Glaciar C.A.--Organización'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GE2000.G65P5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.GE2000.G65P5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.GE2000.G65P5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio del nivel de satisfacción de los clientes de Plumrose, con respecto al servicio de distribución que la empresa ofrece'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración--Trabajo de Grado--2000'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Satisfacción al consumidor'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Servicio al cliente'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Mercadeo de servicios--Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Plumrose--Distribución'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.S35R64'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.S35R64'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.S35R64'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio de mercado para evaluar una página Web prediseñada por Ediciones 1,2,3. C.A. como medio de promoción'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración--Trabajo de Grado--2000'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Página Web--Diseño'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Publicaciones en Web'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Enseñanza programada'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'World Wide Web (Servicio de información sobre redes)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ediciones 1,2,3.C.A.--Investigaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.M65E88'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.M65E88'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.M65E88'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Diagnóstico y análisis del sistema de cableado estructurado y de la red local de datos de la Torre Grupo Unión'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Eléctrica--Trabajo de Grado--2000'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Redes de información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Análisis de redes (Planificación)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Redes locales de computadoras'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Telecomunicaciones'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Torre Grupo Union'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.R65L5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.R65L5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TK145.R65L5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Postgrado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Diagnóstico organizacional del impacto de las decisiones corporativas .Caso : Toyota de Venezuela, C.A.'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Notas generales:'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Universidad Metropolitana--Trabajo de Postgrado--2000'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Clima organizacional'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Cambio organizacional'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración de sistemas de información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Toyota de Venezuela C.A.--Estudio de casos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: P.G.GE2000.C65D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: P.G.GE2000.C65D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: P.G.GE2000.C65D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Texto Completo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Comparación entre métodos teórico-práctico de análisis de estabilidad de taludes'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Civil--Trabajo de Grado--1992'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Taludes (Mecánica de suelos)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Mecánica de suelos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.C240R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.C240R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.C240R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Verificaciónde especificaciones para construcciones civiles en ambientes agresivos (Salitre)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Civil--Trabajo de Grado--1992'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Hormigón--Corrosión'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Construcciones de hormigón armado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.I207R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.I207R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.I207R6'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Optimización de la puesta en marcha de una administradora de fondos de retiro en Venezuela, antes de la aprobación de la ley que las regula'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración--Trabajos de Grado--1992'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sociedades de pensionados--Venezuela--Administración'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Fondos de retiro--Venezuela--Legislación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D338V8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D338V8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.D338V8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Análisis del proceso de privatización de una empresa del estado (C.A.N.T.V.) como herramienta de descentralización administrativa pública para el período 1989-1993'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración--Tesis--1993'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Privatización--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Descentralización administrativa'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Teléfono--Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D355A5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D355A5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.D355A5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio comparativo del comportamiento de columnas cortas de concreto armado de secciones típicas y el de secciones no tradicionales mediante el enfoque sistémico'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Civil--Trabajo de Grado--1991'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Columnas de hormigón armado--Diseño'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería de estructuras'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.P371I5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TA145.P371I5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TA145.P371I5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Aceptación e identificación individual y en equipo de los miembros de Warner Lambert Venezuela con la filosofía del proceso de satisfacción total del cliente implantado en dicha empresa desde noviembre de 1991'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Administración--Tesis--1993'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Calidad total'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Servicio al cliente'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Satisfacción en el trabajo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Warner Lambert Venezuela'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D622S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.HF5500.D622S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.HF5500.D622S5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estudio de las propiedades deshidrogenantes del sistema cromo/alumina en la conversión de N-Butano'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Química--Tesis--1991'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Catalizadores'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Craqueo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Productos del petróleo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.S71S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TP155.S71S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TP155.S71S8'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Diseño y contrucción de un servomecanismo posicional de corriente alterna'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Mecánica--Trabajo de Grado--1993'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Servomecanismos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Convertidores analógico--digitales'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Corriente alterna'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de control por retroalimentación'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Realimentación (Electrónica)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D878C5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TJ146.D878C5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TJ146.D878C5'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Estrategias utilizadas por maestras para enfrentar conflictos en el aula'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Educación Pre--Escolar--Tesis'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Disciplina escolar'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Premios y castigo escolar'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.S078D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.LB1140.S078D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.LB1140.S078D3'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Evaluación de los tiempos de actualización de información en los sistemas SCADA Lagoven Occidente'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Eléctrica--Trabajo de Grado--1992'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'SCADA (Sistema de control y recuperación)'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sistemas de transmisión de datos'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.D932R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.D932R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TK145.D932R7'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Trabajos de Grado'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Optimización del sistema de calentamiento de los hornos de producción'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ingeniería Eléctrica--trabajo de Grado--1991'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Hornos ara petróleo'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Industria petrolera'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Ubicación física: Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.L506'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Sala de Trabajos de Grado Solicite el material por este código: AT.TK145.L506'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Solicite el material por este código: AT.TK145.L506'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': '210 Registros recuperados \n\n\n\nPresentados en esta página: del 1 al 50\nIr al registro no.          Presentar \n registros\n         más\nPresentar con el formato:\xa0\n\n\nDetalladoBreveListaTodos\n\n\n\nPara seleccionar varios títulos utilice la casilla de verificación.\nDe clic aqui para seleccionar todos los títulos de esta página. Luego, si desea obtener una lista consolidada de los títulos seleccionados, utilice el  vínculo\nPresentar selecciónPara deshacer la selección utilice el  vínculo\nDeshacer selecciónSu consulta puede ser recuperada en:\nEnviar  selección por e-mail\n\n\n\n\n\nDesarrollado por Msinfo. Sistemas de Información'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'varios'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'aqui'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'lista consolidada'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Presentar selección'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Deshacer selección'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Enviar  selección por e-mail'}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': ''}
+2020-03-15 02:39:05 [scrapy] DEBUG: Scraped from <200 http://andromeda.unimet.edu.ve/catalogo/php1/buscar.php?xx=9999&base=tesis&cipar=tesis.par&Expresion=(romero/(100))&Opcion=detalle&Formato=a&from=&to=>
+{'': 'Msinfo. Sistemas de Información'}
+2020-03-15 02:39:05 [scrapy] INFO: Closing spider (finished)
+2020-03-15 02:39:05 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 573,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/GET': 2,
+ 'downloader/response_bytes': 94158,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 2,
+ 'elapsed_time_seconds': 15.202389,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 3, 15, 6, 39, 5, 343216),
+ 'item_scraped_count': 441,
+ 'log_count/DEBUG': 445,
+ 'log_count/INFO': 7,
+ 'response_received_count': 2,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 3, 15, 6, 38, 50, 140827)}
+2020-03-15 02:39:05 [scrapy] INFO: Spider closed (finished)
